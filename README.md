@@ -223,6 +223,13 @@ All tools return one of two JSON shapes:
 tail -f /workspace/market-pulse-mcp/logs/*.log  # or journalctl if run as systemd service
 ```
 
+<!-- KEVIN_TOOLBOX -->
+<p align="center">
+  <a href="https://amerilain.github.io/kevin-tools/">
+    <img src="https://img.shields.io/badge/🗂️_Kevin's_Toolbox-Explore_All_Tools-0052CC?style=for-the-badge&logo=github" alt="Kevin's Toolbox">
+  </a>
+</p>
+
 ## License
 
 Proprietary — Market Pulse SaaS
